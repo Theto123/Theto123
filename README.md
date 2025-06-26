@@ -30,6 +30,7 @@ I believe in learning slow, building real projects, and always improving.
 ---
 ### 📜 Certifications
 - [Python for Everybody - University of Michigan (Coursera)](https://coursera.org/share/8dc33dcf5fa7cdef38fcba7a9bb42778)
+- https://coursera.org/share/fabb84074fba0b5fb8ee881e7677eff7
 
 ### 📫 Connect with Me
 - GitHub: [@Theto123](https://github.com/Theto123)
