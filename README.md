@@ -1,40 +1,61 @@
-# 👋 Hi, I'm Theto Mamabolo
+# Theto Mamabolo — Python Developer & Problem Solver
 
-💡 I'm a 16-year-old who genuinely *loves* to code.  
-💻 I’m not in it for the hype or the money — I code because it's fun, exciting, and gives me the power to bring ideas to life.  
-🎮 Right now, I’m building my own Python game called **Double Dare!** — a 2-player quiz battle game with health bars, streak bonuses, and difficulty levels.
-
----
-
-### 🚀 My Coding Journey
-I started learning Python with simple loops and logic, and now I’m making full games from scratch.  
-Every error I fix, every feature I add — it makes me enjoy coding even more.  
-I believe in learning slow, building real projects, and always improving.
+I am a Python developer dedicated to building practical, efficient, and scalable solutions.  
+At 16, I focus on creating projects that demonstrate strong programming fundamentals, clean code practices, and problem-solving abilities.
 
 ---
 
-### 🔧 Things I'm Exploring
-- Python (main language)
-- Git & GitHub
-- Game logic and design
-- Cool effects like sounds, colors & UI
+## 🎯 Areas of Focus
+
+- **Python Development:** Writing maintainable, modular, and well-documented code.  
+- **Automation & Tools:** Creating scripts and applications that streamline workflows.  
+- **Game Development:** Designing mechanics, logic, and interactive systems.  
+- **Data Handling:** Processing, analyzing, and transforming data efficiently.  
+- **APIs & Integration:** Building and consuming APIs to connect software systems.
 
 ---
 
-### 📍 About Me
-- 🇿🇦 South African
-- 🏫 Learner at Hoërskool Noorderland
-- 🎧 Love coding in quiet, focused vibes
-- 🧠 Always thinking big
+## 🏆 Key Projects
 
----
-### 📜 Certifications
-- [Python for Everybody - University of Michigan (Coursera)](https://coursera.org/share/8dc33dcf5fa7cdef38fcba7a9bb42778)
-- https://coursera.org/share/fabb84074fba0b5fb8ee881e7677eff7
+- **Double Dare!** – A 2-player Python quiz battle game with dynamic health bars, streak bonuses, and multiple difficulty levels. 
+- **Automation Scripts** – Tools for web scraping, CSV/JSON processing, file organization, and API interaction.  
+- **FastAPI Mini App** – Backend application demonstrating endpoints and scalable architecture.  
 
-### 📫 Connect with Me
-- GitHub: [@Theto123](https://github.com/Theto123)
+These projects highlight my ability to translate concepts into functional software solutions.
 
 ---
 
-> "I'm not chasing shortcuts. I'm building real skills that’ll last."
+## 📜 Certifications
+
+- [Python for Everybody – University of Michigan (Coursera)](https://coursera.org/share/8dc33dcf5fa7cdef38fcba7a9bb42778)  
+- [Introduction to Python Programming – University of Michigan (Coursera)](https://coursera.org/share/fabb84074fba0b5fb8ee881e7677eff7)
+
+---
+
+## 🔧 Technical Skills
+
+- Python 3 (core language)  
+- Git & GitHub  
+- Web scraping, API consumption, and automation  
+- Pandas, JSON, CSV, and data manipulation  
+- FastAPI for backend applications  
+- Debugging, testing, and clean code principles
+
+---
+
+## 🌍 About Me
+
+I am a student at Hoërskool Noorderland, South Africa, committed to mastering programming through real projects and continuous learning.  
+I approach coding with discipline, curiosity, and a focus on building skills that are both practical and long-lasting.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@Theto123](https://github.com/Theto123)  
+- Email: [thetomamabolo16@gmail.com]  
+
+---
+
+> "I aim to create solutions that are not just functional but thoughtfully designed, maintainable, and efficient."
+
