@@ -29,7 +29,7 @@ These projects highlight my ability to translate concepts into functional softwa
 
 - [Python for Everybody – University of Michigan (Coursera)](https://coursera.org/share/8dc33dcf5fa7cdef38fcba7a9bb42778)  
 - [Introduction to Python Programming – University of Michigan (Coursera)](https://coursera.org/share/fabb84074fba0b5fb8ee881e7677eff7)
-- https://www.coursera.org/account/accomplishments/verify/96GFRXUZEZH0
+- [Using Python to Access Web Data - University of Michigan (Coursera)](https://www.coursera.org/account/accomplishments/verify/96GFRXUZEZH0)
 
 ---
 
