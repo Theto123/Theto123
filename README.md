@@ -1,7 +1,7 @@
 # Theto Mamabolo — Python Developer & Problem Solver
 
 I am a Python developer dedicated to building practical, efficient, and scalable solutions.  
-At 16, I focus on creating projects that demonstrate strong programming fundamentals, clean code practices, and problem-solving abilities.
+I focus on creating projects that demonstrate strong programming fundamentals, clean code practices, and problem-solving abilities.
 
 ---
 
